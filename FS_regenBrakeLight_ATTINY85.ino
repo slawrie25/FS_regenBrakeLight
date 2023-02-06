@@ -5,6 +5,7 @@
 * https://github.com/SpenceKonde/ATTinyCore/releases/tag/1.5.2
 * 
 * Currently using 0x1D for MMA8451 address, A pin is tied to ground
+* ^^ THIS MUST BE CHANGED IN LIBRARY! ^^
 * 
 * Wiring is as follows:
 * ATTiny pin:
